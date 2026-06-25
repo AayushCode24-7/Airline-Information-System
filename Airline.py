@@ -16,8 +16,8 @@ while True:
 # Dictionary For Flights
 
 flights = [
-    {'no': 'AI101', 'src': 'Delhi', 'dest': 'Mumbai', 'seats': 120, 'fare': 4500},
-    {'no': 'AI202', 'src': 'Pune', 'dest': 'Bengaluru', 'seats': 60, 'fare': 5200}
+    {'no': 'SD-101', 'src': 'Delhi', 'dest': 'Mumbai', 'seats': 120, 'fare': 4500},
+    {'no': 'SD-202', 'src': 'Pune', 'dest': 'Bengaluru', 'seats': 60, 'fare': 5200}
 ]
 
 # Function to add a new flight record
