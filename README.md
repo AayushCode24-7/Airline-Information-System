@@ -1,18 +1,18 @@
-# ✈️ Airline Information System Pro
+# Airline Information System Pro
 
 A modern airline management application built with **Python, Streamlit, SQLite, and Pandas**. The system provides an interactive web interface for managing flights, handling passenger bookings, generating reports, and maintaining airline records efficiently.
 
+[Live Demo](https://airline-information-system-5ggdxjv7ma7lskt4ctpp8g.streamlit.app/)
 ---
 
-## 📖 Overview
+## Overview
 
 Airline Information System Pro is designed to simulate core airline operations through a user-friendly dashboard. It enables administrators to manage flight schedules, process ticket bookings, cancel reservations, modify flight information, and analyze revenue data.
 
 The application uses **SQLite** for persistent data storage and **Streamlit** for the frontend interface, creating a lightweight yet powerful management system.
-
 ---
 
-## ✨ Features
+## Features
 
 ### Flight Management
 
